@@ -6,9 +6,7 @@ import HomeScreen from './Screens/HomeScreen'
 import ProductFormScreen from './Screens/ProductFormScreen'
 import EditProductFormScreen from './Screens/EditProductFormScreen'
 
-
 const Stack = createNativeStackNavigator();
-
 
 const App = () => {
   return (
